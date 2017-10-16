@@ -1,0 +1,20 @@
+{ "Equipos": [
+	{ [
+		"Equipo": "Rayo Vallecas",
+        "Jugadores": [
+                    {"Jugador": "Luis Lopez"},
+                    {"Jugador": "Juan Martin"},
+                    {"Jugador": "Daniel Sanchez"},
+                    {"Jugador": "Alfredo Perez"},
+                    {"Jugador": "Antonio Arribas"},
+                    {"Jugador": "Alberto Matias"},
+                    {"Jugador": "Alvaro Rodriguez"},
+                    {"Jugador": "Jorge Lemos"},
+                    {"Jugador": "Javier Anton"},
+                    {"Jugador": "Francisco Alvarez"},
+                    ]
+	],
+    },
+],
+
+}
